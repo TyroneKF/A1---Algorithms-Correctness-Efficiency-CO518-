@@ -2,6 +2,8 @@
 Second Year Module 
 
 ## Briefing Of The Assignment 
+![Capture](https://user-images.githubusercontent.com/74104140/98492434-bd51e400-222f-11eb-8840-87916f7fd1ee.PNG)
+
 There is a parent class called IntSet which can have the offspring of an; empty set object (a set with no value), a singleton set which is a set with one int value, a tree set which can be a combination of multiple objects being other tree objects, empty set objects, singleton objects.
 
 ## What is inside the repository? 
